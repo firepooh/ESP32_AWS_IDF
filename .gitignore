@@ -1,0 +1,27 @@
+.config
+*.o
+*.pyc
+*.log
+*.bin
+
+# eclipse setting
+.settings
+
+# VS Code Settings
+*.code-workspace
+.vscode/
+.devcontainer/
+
+# Clion IDE CMake build & config
+.idea/
+cmake-build-*/
+
+# Results for the checking of the Python coding style and static analysis
+.mypy_cache
+flake8_output.txt
+
+# ESP-IDF default build directory name
+build
+
+# lock files for examples and components
+dependencies.lock
