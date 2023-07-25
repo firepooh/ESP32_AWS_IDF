@@ -37,7 +37,7 @@ CONFIG_MQTT_BROKER_ENDPOINT="ajwyncrxuu7ba-ats.iot.us-west-2.amazonaws.com"
 
 # 인증서 관련 
 - aws site에서 iot 생성시 다운 받은 인증서를 셋팅 한다.(파일 내용을 copy paste 한다. )
-> ![image](https://github.com/firepooh/esp32_idf_aws/assets/19420294/83a2524c-5c51-4334-9943-0002d9c6935f)
+> ![image](https://github.com/firepooh/ESP32_AWS_IDF/assets/19420294/1948b936-baa8-4021-8ba1-60376299a19e)
 
 c2a877a658beba55b3118342d7b9d1cc254f0aa9918d50d641bca80cc26aaf35-certificate.pem.crt --> client.crt
 c2a877a658beba55b3118342d7b9d1cc254f0aa9918d50d641bca80cc26aaf35-private.pem.key     --> client.key
